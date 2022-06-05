@@ -21,8 +21,8 @@ Alunos e Professores da Poli
 5. Com dados validos, o aluno ou professor acessa o sistema.
 
 ## Exception Sequence:
-O usuário acessa o site da Divisão de Estágio.
-O usuário clica em "entrar".
-O usuário não preenche todos os campos necessários para o login.
-O usuário clica em "entrar"
-O usuário é notificado que precisa preencher todos os campos necessários para conseguir realizar o login com sucesso.
+1. O usuário acessa o site da Divisão de Estágio.
+2. O usuário clica em "entrar".
+3. O usuário não preenche todos os campos necessários para o login.
+4. O usuário clica em "entrar"
+5. O usuário é notificado que precisa preencher todos os campos necessários para conseguir realizar o login com sucesso.
