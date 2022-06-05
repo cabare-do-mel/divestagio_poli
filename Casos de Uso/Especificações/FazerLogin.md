@@ -1,6 +1,4 @@
 # Caso de Uso: Fazer Login
 
-## Sumário: 
-
-### Permite que um aluno ou professor faça login no site da Divisão de Estágio
+## Sumário: #### Permite que um aluno ou professor faça login no site da Divisão de Estágio
 
