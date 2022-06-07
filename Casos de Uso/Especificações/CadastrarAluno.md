@@ -24,4 +24,4 @@ Com dados válidos, o aluno da Poli tem sua conta cadastrada no site.
 2. O usuário clica em "Cadastre-se aqui".
 3. O usuário não preenche todos os campos necessários para o cadastro.
 4. O usuário clica em "Enviar Cadastro".
-5. O usuário é notificado que precisa preencher todos os campos necessários para conseguir realizar o cadastro com sucesso.
+5. O sistema notifica o usuário que ele precisa preencher todos os campos necessários para conseguir realizar o cadastro com sucesso.
