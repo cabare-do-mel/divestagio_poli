@@ -24,4 +24,4 @@ Alunos e Professores da Poli
 1. O usuário acessa o site da Divisão de Estágio.
 2. O usuário não preenche todos os campos necessários para o login.
 3. O usuário clica em "entrar"
-4. O usuário é notificado que precisa preencher todos os campos necessários para conseguir realizar o login com sucesso.
+4. O sistema notifica o usuário que ele precisa preencher todos os campos necessários para conseguir realizar o login com sucesso.
