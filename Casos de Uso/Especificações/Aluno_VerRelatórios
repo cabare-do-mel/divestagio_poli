@@ -1,0 +1,27 @@
+# Caso de Uso: Cadastrar
+
+## Sumário: 
+Este caso de uso permite que um aluno da Poli ao logar-se no Site da Divisão de Estágio da Politécnica, possa acessar a página de Relatórios.
+
+## Ator:
+Alunos da Poli.
+
+## Pré condições:
+É necessário que o usuário esteja logado no site da Divisão de Estágio da Politécnica.
+
+## Pós Condição:
+O usuário pode ver o o Status dos Relatórios, e ver ou Modelos de Relatórios, Coletar assinaturas ou Entregar Relatórios.
+
+## Base Sequence:
+1. O usuário acessa o site da Divisão de Estágio da Politécnica.
+2. O usuário clica em "Cadastre-se aqui".
+3. O usuário preenche os campos necessários, com seu Nome Completo, CPF, Email, senha e Período letivo.
+4. O usuário clica em "Enviar Cadastro".
+5. O sistema realiza o cadastro do aluno.
+
+## Exception Sequence:
+1. O usuário acessa o site da Divisão de Estágio da Politécnica.
+2. O usuário clica em "Cadastre-se aqui".
+3. O usuário não preenche todos os campos necessários para o cadastro.
+4. O usuário clica em "Enviar Cadastro".
+5. O sistema notifica o usuário que ele precisa preencher todos os campos necessários para conseguir realizar o cadastro com sucesso.
