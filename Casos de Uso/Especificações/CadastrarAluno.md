@@ -17,6 +17,7 @@ Com dados válidos, o aluno da Poli tem sua conta cadastrada no site.
 2. O usuário clica em "Cadastre-se aqui".
 3. O usuário preenche os campos necessários, com seu Nome Completo, CPF, Professor orientador, Empresa e Período letivo.
 4. O usuário clica em "Enviar Cadastro".
+5. O sistema realiza o cadastro do aluno.
 
 ## Exception Sequence:
 1. O usuário acessa o site da Divisão de Estágio da Politécnica.
