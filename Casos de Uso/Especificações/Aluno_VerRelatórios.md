@@ -10,7 +10,7 @@ Alunos da Poli.
 É necessário que o usuário esteja logado no site da Divisão de Estágio da Politécnica.
 
 ## Pós Condição:
-O usuário, logado e após clicar em "Relatórios", pode ver o o Status dos Relatórios, e ver ou Modelos de Relatórios, Coletar assinaturas ou Entregar Relatórios.
+O usuário, logado e após clicar em "Relatórios", pode ver o Status dos Relatórios, e ou ver Modelos de Relatórios, Coletar assinaturas ou Entregar Relatórios.
 
 ## Base Sequence:
 1. O usuário acessa o site da Divisão de Estágio.
@@ -18,3 +18,4 @@ O usuário, logado e após clicar em "Relatórios", pode ver o o Status dos Rela
 3. O usuário caso seja um aluno, clica em "entrar".
 4. Com dados validos, o aluno ou professor acessa o sistema.
 5. O usuário clica em "Relatórios".
+6. O sistema exibe o status dos Relatórios e as opções de ou ver Modelos de Relatórios, Coletar assinaturas ou Entregar Relatórios.
