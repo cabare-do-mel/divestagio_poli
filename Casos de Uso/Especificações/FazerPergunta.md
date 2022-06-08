@@ -1,4 +1,4 @@
-# Caso de Uso: Fazer Login
+# Caso de Uso: Fazer Pergunta
 
 ## Sumário: 
 Permite que um aluno envie uma pergunta ao site da Divisão de Estágio da Poli
