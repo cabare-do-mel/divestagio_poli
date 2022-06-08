@@ -15,7 +15,7 @@ O usuário, logado e após clicar em "Relatórios", pode ver o Status dos Relat�
 ## Base Sequence:
 1. O usuário acessa o site da Divisão de Estágio.
 2. O usuário preenche os campos com seu Usuário cadastrado e sua Senha cadastrada.
-3. O usuário caso seja um aluno, clica em "entrar".
-4. Com dados validos, o aluno ou professor acessa o sistema.
+3. O usuário clica em "entrar".
+4. Com dados validos, o usuário acessa o sistema.
 5. O usuário clica em "Relatórios".
 6. O sistema exibe o status dos Relatórios e as opções de ou ver Modelos de Relatórios, Coletar assinaturas ou Entregar Relatórios.
