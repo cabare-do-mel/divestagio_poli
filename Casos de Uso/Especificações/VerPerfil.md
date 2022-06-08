@@ -16,6 +16,6 @@ Alunos e Professores da Poli.
 ## Base Sequence:
 1. O usuário acessa o site da Divisão de Estágio.
 2. O usuário preenche os campos com seu Usuário cadastrado e sua Senha cadastrada.
-3. O usuário caso seja um aluno, clica em "entrar".
+3. O usuário clica em "entrar".
 4. Com dados validos, o aluno ou professor acessa o sistema.
 5. O usuário clica em Perfil.
