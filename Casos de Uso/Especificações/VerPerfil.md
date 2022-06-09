@@ -7,7 +7,7 @@ Permite que o usuário visualize as informações do seu Perfil.
 Alunos e Professores da Poli.
 
 ## Pré condições:
-É necessário que o usuário esteja logado no site.
+É necessário que o usuário possua uma cadastro no Site da Divisão de Estágio da Politécnica.
 
 ## Pós Condição:
 * O Aluno, logado e após clicar em "Ver Perfil", pode editar suas informações de Perfil, acessar sua caixa de entrada, ver suas notas ou deslogar(sair).
