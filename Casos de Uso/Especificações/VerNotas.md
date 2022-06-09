@@ -10,14 +10,11 @@ Alunos da Poli.
 É necessário que o usuário esteja logado no site da Divisão de Estágio da Politécnica.
 
 ## Pós Condição:
-O usuário, logado e após clicar em "Relatórios" e depois em "Notas", pode ver as notas de seus Relatórios entregues.
+O usuário pode contemplar suas notas.
 
 ## Base Sequence:
-1. O usuário acessa o site da Divisão de Estágio.
-2. O usuário preenche os campos com seu Usuário cadastrado e sua Senha cadastrada.
-3. O usuário clica em "entrar".
-4. O sistema válida os dados do usuário.
-5. o usuário acessa o sistema, caso os dados estejam válidos.
-6. O usuário clica em "Relatórios".
-7. O usuário clica em "Notas".
-8. O sistema exibe as notas correspondentes aos Relatórios entregues.
+1. O usuário acessa a página inicial.
+2. O usuário clica em "Perfil".
+3. O sistema exibe as informações pessoais do usuário, e as opções de "Caixa de Entrada", "Notas", "Editar Perfil" e "Sair".
+4. O usuário clica em "Notas".
+5. O sistema exibe as notas correspondentes aos Relatórios entregues.
