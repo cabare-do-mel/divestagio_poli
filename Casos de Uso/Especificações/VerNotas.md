@@ -15,6 +15,6 @@ O usuário pode contemplar suas notas.
 ## Base Sequence:
 1. O usuário acessa a página inicial.
 2. O usuário clica em "Perfil".
-3. O sistema exibe as informações pessoais do usuário, e as opções de "Caixa de Entrada", "Notas", "Editar Perfil" e "Sair".
+3. O sistema exibe as informações pessoais do usuário, e as opções de "Notas", "Editar Perfil" e "Sair".
 4. O usuário clica em "Notas".
 5. O sistema exibe as notas correspondentes aos Relatórios entregues.

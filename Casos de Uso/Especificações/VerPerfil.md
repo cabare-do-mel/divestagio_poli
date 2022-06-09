@@ -10,8 +10,8 @@ Alunos e Professores da Poli.
 É necessário que o usuário possua uma cadastro no Site da Divisão de Estágio da Politécnica.
 
 ## Pós Condição:
-* O Aluno, logado e após clicar em "Ver Perfil", pode editar suas informações de Perfil, acessar sua caixa de entrada, ver suas notas ou deslogar(sair).
-* O Professor, logado e após clicar em "Ver Perfil", pode editar suas informações de Perfil, acessar sua caixa de entrada ou deslogar(sair).
+* O Aluno, logado e após clicar em "Ver Perfil", pode editar suas informações de Perfil, ver suas notas ou deslogar(sair).
+* O Professor, logado e após clicar em "Ver Perfil", pode editar suas informações de Perfil, ou deslogar(sair).
 
 ## Base Sequence:
 1. O usuário acessa a página inicial.
