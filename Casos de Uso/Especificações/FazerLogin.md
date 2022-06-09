@@ -4,7 +4,7 @@
 Permite que um aluno, professor ou administrador faça login no site da Divisão de Estágio da Poli
 
 ## Ator:
-Alunos da Poli, Professores da Poli, e Administradores da Divisão de Estágio.
+Usuário visitante.
 
 ## Pré condições:
 É necessário que o usuário não esteja logado no site.
