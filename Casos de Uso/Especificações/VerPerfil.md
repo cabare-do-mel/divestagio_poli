@@ -19,4 +19,4 @@ Alunos e Professores da Poli.
 3. O usuário clica em "entrar".
 4. O sistema válida os dados do usuário.
 5. o usuário acessa o sistema, caso os dados estejam válidos.
-6. O usuário clica em Perfil.
+6. O usuário clica em "Perfil".
