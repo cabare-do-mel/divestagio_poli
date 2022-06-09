@@ -13,8 +13,6 @@ Alunos da Poli.
 * O Aluno é pode ver os documentos necessários e Iniciar o estágio ou Cadastrar uma empresa.
 
 ## Base Sequence:
-1. O usuário acessa o site da Divisão de Estágio.
-2. O usuário preenche os campos com seu Usuário cadastrado e sua Senha cadastrada.
-3. O usuário clica em "entrar".
-4. Com dados validos, o usuário acessa o sistema.
-5. O usuaŕio acessa a página "Iniciar Processo" através do menu de navegação.
+1. O usuário acessa a página inicial.
+2. O usuaŕio acessa a página "Iniciar Processo" através do menu de navegação.
+3. O sistema exibe os documentos necessários para que o usuário inicie o processo, e as opções "Iniciar Estágio" e "Cadastrar Empresa."
