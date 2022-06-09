@@ -4,7 +4,7 @@
 Este caso de uso permite que um aluno da Poli cadastrar-se no Site da Divisão de Estágio da Politécnica.
 
 ## Ator:
-Alunos da Poli.
+Usuário Visitante.
 
 ## Pré condições:
 É necessário que o usuário acesse a página de cadastro e não possua uma conta cadastrada com suas informações.

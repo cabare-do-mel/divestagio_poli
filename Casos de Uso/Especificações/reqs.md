@@ -6,6 +6,7 @@
 ```plantuml
 @startuml
 left to right direction
+actor UsuárioVisitante as uv
 actor UsuárioLogado as ul
 package Professional {
   actor Professor as p
@@ -30,7 +31,13 @@ package AppDivisãoDeEstágio {
   usecase "Cadastrar Professor" as UC14
   usecase "Atualizar Perfil de Aluno" as UC15
   usecase "Atualizar Perfil de Professor" as UC16
+  usecase "Fazer Login" as UC17
+  usecase "Cadastrar Aluno" as UC18
 }
+
+uv --> UC17
+uv --> UC18
+
 ul --> UC1
 ul --> UC2
 ul --> UC3
@@ -64,4 +71,4 @@ a --> UC16
 @enduml
 ```
 
-![DivEstagio](https://user-images.githubusercontent.com/57346466/172061689-061ba16b-5357-4540-8daf-62c001138b05.png)
+![DivEstagio](../usecases.svg)

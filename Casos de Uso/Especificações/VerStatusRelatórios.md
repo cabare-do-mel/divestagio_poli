@@ -1,4 +1,4 @@
-# Caso de Uso: Ver Relatórios
+# Caso de Uso: Ver Status dos Relatórios
 
 ## Sumário: 
 Este caso de uso permite que um aluno da Poli ao logar-se no Site da Divisão de Estágio da Politécnica, possa acessar a página de seus Relatórios.
