@@ -7,10 +7,10 @@ Permite que um Administrador altere as informações um professor da poli no sis
 Administrador do sistema.
 
 ## Pré condições:
-É necessário que o usuário seja Administrador e esteja logado no site.
+É necessário que o usuário seja Administrador e esteja logado no site e que o Professor esteja cadastrado no sistema.
 
 ## Pós Condição:
-* O Administrador é retorna a página de lista de professor.
+* O Administrador permanece na página de informações e edição do professor.
 
 ## Base Sequence:
 1. O usuário acessa o site da Divisão de Estágio.
@@ -24,8 +24,9 @@ Administrador do sistema.
 9. O usuário clica no botão "Ver".
 10. O sistema abre uma página com as informações do professor livres para alteração.
 11. O usuário altera as informações que deseja.
-12. O sistema valida as informações e permite a troca.
-
+12. O usuário clica em Salvar.
+13. O sistema valida as informações, permite a troca e mostra uma mensagem de sucesso.
+14. O sistema retorna a página de edição.
 ## Exception Sequence:
 1. O usuário acessa o site da Divisão de Estágio.
 2. O usuário preenche os campos com seu Usuário cadastrado e sua Senha cadastrada.
@@ -38,4 +39,6 @@ Administrador do sistema.
 9. O usuário clica no botão "Ver".
 10. O sistema abre uma página com as informações do professor livres para alteração.
 11. O usuário altera as informações que deseja, colocando informações inválidas.
-12. O sistema não valida as informações e não permite a troca.
+12. O usuário clica em Salvar.
+13. O sistema não valida as informações, não atualiza as informações e mostra uma mensagem de erro.
+14. O sistema retorna a página de edição.
