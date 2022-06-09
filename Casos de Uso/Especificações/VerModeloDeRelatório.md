@@ -10,11 +10,11 @@ Alunos da Poli.
 É necessário que o usuário esteja logado no site da Divisão de Estágio da Politécnica.
 
 ## Pós Condição:
-O usuário, logado e após clicar em "Relatórios" e depois em "Modelo de Relatórios", pode ver alguns Modelos de Relatórios de Estágio.
+O usuário pode ver alguns Modelos de Relatórios de Estágio.
 
 ## Base Sequence:
 1. O usuário acessa a página inicial.
 2. O usuário clica em "Relatórios".
-3. O sistema exibe o status dos Relatórios e as opções de ou ver Modelos de Relatórios, Coletar assinaturas ou Entregar Relatórios.
+3. O sistema exibe o status dos Relatórios e as opções "Modelos de Relatórios", "Coletar assinaturas" e "Entregar Relatórios".
 4. O usuário clica em "Modelos de Relatórios".
 5. O sistema exibe diferentes Modelos de Relatórios de Estágio disponíveis para o aluno visualizar online ou baixar no modo .pdf.
