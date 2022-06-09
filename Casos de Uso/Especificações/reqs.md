@@ -81,4 +81,4 @@ ul --> UC24
 @enduml
 ```
 
-![DivEstagio](../usecases.svg)
+![DivEstagio](../UML.png)
