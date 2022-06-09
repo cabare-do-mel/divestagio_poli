@@ -17,7 +17,7 @@ package AppDivisãoDeEstágio {
   usecase "Assinar relatório" as UC7
   usecase "Aprovar castrastro de empresa" as UC8
   usecase "Cadastrar Professor" as UC9
-  usecase "Editar Perfil" as UC8
+  usecase "Editar Perfil" as UC10
   usecase "Coletar Assinatura" as UC11
   usecase "Fazer Login" as UC12
   usecase "Cadastrar Aluno" as UC13
