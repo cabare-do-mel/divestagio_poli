@@ -4,10 +4,10 @@
 Permite que um aluno, professor ou administrador faça login no site da Divisão de Estágio da Poli
 
 ## Ator:
-Usuário visitante.
+Usuário cadastrado.
 
 ## Pré condições:
-É necessário que o usuário não esteja logado no site.
+É necessário que o usuário não esteja logado no site e esteja cadastrado.
 
 ## Pós Condição:
 * O Aluno, com dados válidos, é levado para a página inicial do aluno.
