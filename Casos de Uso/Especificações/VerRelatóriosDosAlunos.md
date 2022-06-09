@@ -1,7 +1,7 @@
-# Caso de Uso: Ver Relatórios
+# Caso de Uso: Ver Relatórios dos Alunos
 
 ## Sumário: 
-Permite que o professor visualize os relatórios com assinatura pendente de seus alunos orientados
+Permite que o professor visualize e assine os relatórios com assinatura pendente de seus alunos orientados
 
 ## Ator:
 Professores da POLI
@@ -16,4 +16,5 @@ O professor visualiza a lista de relatório no aguardo por assinatura
 1. O professor acessa a tela inicial
 2. O professor clica em "alunos"
 3. O professor clica em "ver relatórios"
-4. O professor vê os relatórios disponíveis para assinatura
+4. O professor clica em um dos relatórios disponíveis
+5. O professor vê o relatório e/ou assina
