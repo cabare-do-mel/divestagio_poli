@@ -14,25 +14,19 @@ Alunos da Poli.
 * O Aluno preenche os dados necessários para realizar o cadastro de sua empresa, porém esse cadastro fica pendente até que o Administrador o confirme/valide.
 
 ## Base Sequence:
-1. O usuário acessa o site da Divisão de Estágio.
-2. O usuário preenche os campos com seu Usuário cadastrado e sua Senha cadastrada.
-3. O usuário clica em "entrar".
-4. Com dados validos, o usuário acessa o sistema.
-5. O usuaŕio acessa a página "Iniciar Processo" através do menu de navegação.
-6. O usuário clica em "Cadastrar Empresa".
-7. O sistema exibe um formulário com os campos "Nome Fantasia", "Telefone", "email" e "CNPJ".
-8. O usuário preenche todos os campos corretamente.
-9. O usuário clica em "Enviar cadastro".
-10. O sistema enviar a solicitação de cadastro de estágio ao administrador para que ele o valide.
+1. O usuário acessa a tela inicial.
+2. O usuaŕio clica em "Iniciar Processo" através do menu de navegação.
+3. O usuário clica em "Cadastrar Empresa".
+4. O sistema exibe um formulário com os campos "Nome Fantasia", "Telefone", "email" e "CNPJ".
+5. O usuário preenche todos os campos corretamente.
+6. O usuário clica em "Enviar cadastro".
+7. O sistema envia a solicitação de cadastro de estágio ao administrador para que ele o valide.
 
 ## Exception Sequence:
-1. O usuário acessa o site da Divisão de Estágio.
-2. O usuário preenche os campos com seu Usuário cadastrado e sua Senha cadastrada.
-3. O usuário clica em "entrar".
-4. Com dados validos, o usuário acessa o sistema.
-5. O usuaŕio acessa a página "Iniciar Processo" através do menu de navegação.
-6. O usuário clica em "Cadastrar Empresa".
-7. O sistema exibe um formulário com os campos "Nome Fantasia", "Telefone", "email" e "CNPJ".
-8. O usuário não preenche todos os campos.
-9. O usuário clica em "Enviar cadastro".
-10. O sistema notifica o usuário de que ele deve preencher todos os campos corretamente.
+1. O usuário acessa a tela inicial.
+2. O usuaŕio clica em "Iniciar Processo" através do menu de navegação.
+3. O usuário clica em "Cadastrar Empresa".
+4. O sistema exibe um formulário com os campos "Nome Fantasia", "Telefone", "email" e "CNPJ".
+5. O usuário não preenche todos os campos.
+6. O usuário clica em "Enviar cadastro".
+7. O sistema notifica o usuário de que ele deve preencher todos os campos corretamente.
