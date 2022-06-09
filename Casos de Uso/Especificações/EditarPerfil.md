@@ -15,7 +15,7 @@ As informações de Perfil do usuário são atualizadas.
 ## Base Sequence:
 1. O usuário acessa a página inicial.
 2. O usuário clica em "Perfil".
-3. O sistema exibe as informações pessoais do usuário, e as opções de "Caixa de Entrada", "Notas", "Editar Perfil" e "Sair".
+3. O sistema exibe as informações pessoais do usuário, e as opções de "Notas", "Editar Perfil" e "Sair".
 4. O usuário clica em "Editar Perfil".
 5. O usuário modifica as informações que lhe são permitidas modificar de forma ainda válida.
 6. O usuário clica em "Salvar Alterações".
@@ -26,7 +26,7 @@ As informações de Perfil do usuário são atualizadas.
 ## Exception Sequence:
 1. O usuário acessa a página inicial.
 2. O usuário clica em "Perfil".
-3. O sistema exibe as informações pessoais do usuário, e as opções de "Caixa de Entrada", "Notas", "Editar Perfil" e "Sair".
+3. O sistema exibe as informações pessoais do usuário, e as opções de "Notas", "Editar Perfil" e "Sair".
 4. O usuário clica em "Editar Perfil".
 5. O usuário modifica as informações que lhe são permitidas modificar, inserindo informações inválidas ou faltantes.
 6. O usuário clica em "Salvar Alterações".
