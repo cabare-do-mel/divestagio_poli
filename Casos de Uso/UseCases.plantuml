@@ -9,68 +9,64 @@ package UsuárioLogado as ul{
 }
 package AppDivisãoDeEstágio {
   usecase "Ver Perfil" as UC1
-
-  usecase "Ver Modelo de Relatório" as UC3
-  usecase "Iniciar cadastro de estágio" as UC4
-  usecase "Casdrastrar empresa" as UC5
-  usecase "Ver Perfil de Professor" as UC6
-  usecase "Acompanhar entrega de relatório" as UC7
-  usecase "Assinar relatório" as UC8
-  usecase "Aprovar castrastro de empresa" as UC9
-
-  usecase "Registrar duvida" as UC11
-  usecase "Responder dúvida" as UC12
-  usecase "Assinar aprovação de relatório" as UC13
-  usecase "Cadastrar Professor" as UC14
-  usecase "Editar Perfil" as UC15
-  usecase "Coletar Assinatura" as UC16
-  usecase "Fazer Login" as UC17
-  usecase "Cadastrar Aluno" as UC18
-  usecase "Ver Solicitações de Empresas" as UC19
-  usecase "Ver Solicitações de Alunos" as UC20
-  usecase "Ver Lista de Professores" as UC21
-  usecase "Ver Lista de Alunos" as UC22
-  usecase "Ver Solicitações de Alunos" as UC23
-  usecase "Fazer Logout" as UC24
-  usecase "Ver Notas" as UC25
+  usecase "Ver Modelo de Relatório" as UC2
+  usecase "Iniciar cadastro de estágio" as UC3
+  usecase "Casdrastrar empresa" as UC4
+  usecase "Ver Perfil de Professor" as UC5
+  usecase "Acompanhar entrega de relatório" as UC6
+  usecase "Assinar relatório" as UC7
+  usecase "Aprovar castrastro de empresa" as UC8
+  usecase "Assinar aprovação de relatório" as UC9
+  usecase "Cadastrar Professor" as UC10
+  usecase "Editar Perfil" as UC11
+  usecase "Coletar Assinatura" as UC12
+  usecase "Fazer Login" as UC13
+  usecase "Cadastrar Aluno" as UC14
+  usecase "Ver Solicitações de Empresas" as UC15
+  usecase "Ver Solicitações de Alunos" as UC16
+  usecase "Ver Professores" as UC17
+  usecase "Ver Alunos" as UC18
+  usecase "Ver Solicitações de Alunos" as UC19
+  usecase "Fazer Logout" as UC20
+  usecase "Ver Notas" as UC21
+  usecase "Ver Perfil do Aluno" as UC22
+  usecase "Ver Perfil do Professor" as UC23
 }
 
-UC16 <-- sys
+UC12 <-- sys
 
 
-adm --> UC6
+adm --> UC5
+adm --> UC8
 adm --> UC9
-
-adm --> UC12
-adm --> UC13
-adm --> UC14
+adm --> UC10
 adm --> UC15
-adm --> UC15
-adm --> UC19
-adm --> UC21
+adm --> UC17
+adm --> UC18
 adm --> UC22
+adm --> UC23
 
 
+p --> UC6
 p --> UC7
-p --> UC8
 p --> UC13
-p --> UC20
+p --> UC16
+p --> UC18
+p --> UC19
 p --> UC22
-p --> UC23
 
+al --> UC2
 al --> UC3
 al --> UC4
 al --> UC5
 al --> UC6
-al --> UC7
+al --> UC21
+al --> UC23
 
-al --> UC11
-al --> UC25
-
-uv --> UC17
-uv --> UC18
+uv --> UC13
+uv --> UC14
 
 ul --> UC1
-ul --> UC15
-ul --> UC24
+ul --> UC11
+ul --> UC20
 @enduml
