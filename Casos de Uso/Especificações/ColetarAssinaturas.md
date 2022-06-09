@@ -24,5 +24,6 @@ representante da empresa do usuário, e realizar o upload de seu relatório.
 7. O usuário clica em "Coletar Assinaturas".
 8. O sistema exibe um formulário que o usuário deverá preencher com os dados do seu professor orientador e o representante da empresa do usuário, e realizar o upload 
 de seu relatório.
-9. O sistema envia o relatório automaticamente para ambos o professor orientador do usuário e o representante da empresa do usuário, e coleta suas assinaturas digitais,
+9. O usuário clica em "Enviar".
+10. O sistema envia o relatório automaticamente para ambos o professor orientador do usuário e o representante da empresa do usuário, e coleta suas assinaturas digitais,
 de forma que eles assinam o relatório e retornam o email.
